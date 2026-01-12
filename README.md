@@ -1,69 +1,96 @@
-# Welcome to your Lovable project
+Benz Cabz – Premium Taxi & Executive Travel Service
 
-## Project info
+Benz Cabz is a professional private hire and executive taxi service based in Watford, Hertfordshire, providing reliable, comfortable, and punctual transport across the local area and to all major UK airports.
 
-**URL**: https://lovable.dev/projects/d2df6464-d71d-4da3-bc2a-b34e6ce96c7f
+The service is designed for customers who value reliability, professionalism, and comfort, whether travelling for business, leisure, or everyday journeys.
 
-## How can I edit this code?
+🌍 About Benz Cabz
 
-There are several ways of editing your application.
+Benz Cabz operates as a UK-registered private hire service, offering pre-booked transport with experienced drivers and well-maintained vehicles. Our focus is on delivering a smooth, stress-free experience from booking to drop-off.
 
-**Use Lovable**
+We pride ourselves on:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d2df6464-d71d-4da3-bc2a-b34e6ce96c7f) and start prompting.
+On-time arrivals
 
-Changes made via Lovable will be committed automatically to this repo.
+Courteous, professional drivers
 
-**Use your preferred IDE**
+Clean and comfortable vehicles
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Clear, competitive pricing
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Whether you need a short local trip or a long-distance airport transfer, Benz Cabz aims to provide a dependable and premium travel experience every time.
 
-Follow these steps:
+🚗 Services Offered
+✈️ Airport Transfers
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Pre-booked airport transfers to and from all major UK airports, including:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Heathrow
 
-# Step 3: Install the necessary dependencies.
-npm i
+Gatwick
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Luton
 
-**Edit a file directly in GitHub**
+Stansted
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+London City Airport
 
-**Use GitHub Codespaces**
+Flight monitoring ensures timely pickups, even if your flight is delayed.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🏙️ Local & Long-Distance Journeys
 
-## What technologies are used for this project?
+Local taxi services in Watford and surrounding areas
 
-This project is built with .
+Journeys across Hertfordshire and Greater London
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Comfortable travel for shopping, appointments, or events
 
-## How can I deploy this project?
+💼 Executive & Business Travel
 
-Simply open [Lovable](https://lovable.dev/projects/d2df6464-d71d-4da3-bc2a-b34e6ce96c7f) and click on Share -> Publish.
+Ideal for professionals and corporate clients who require:
 
-## I want to use a custom domain - is that possible?
+Reliable timekeeping
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+A discreet, professional service
+
+Comfortable travel for meetings and business trips
+
+⭐ Why Choose Benz Cabz?
+
+✔️ Reliable and punctual service
+
+✔️ Professional and friendly drivers
+
+✔️ Comfortable, well-maintained vehicles
+
+✔️ Simple booking process
+
+✔️ Competitive and transparent pricing
+
+Customer satisfaction and safety are at the heart of everything we do.
+
+🌐 Website
+
+Visit the official website to learn more or make a booking:
+👉 https://www.benzcabz.co.uk/
+
+📞 Contact & Bookings
+
+Bookings and enquiries can be made directly through the website.
+For the best experience, we recommend pre-booking your journey.
+
+📄 Licence & Compliance
+
+Benz Cabz operates in accordance with UK private hire regulations and maintains high standards of safety, service quality, and professionalism.
+
+🚀 Future Improvements
+
+Planned enhancements may include:
+
+Online booking management
+
+Automated confirmations and reminders
+
+Expanded service coverage
+
+Fleet growth
