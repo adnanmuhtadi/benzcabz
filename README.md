@@ -1,96 +1,75 @@
-Benz Cabz – Premium Taxi & Executive Travel Service
+# Welcome to the Benz Cabz Website Project
 
-Benz Cabz is a professional private hire and executive taxi service based in Watford, Hertfordshire, providing reliable, comfortable, and punctual transport across the local area and to all major UK airports.
+## Project info
 
-The service is designed for customers who value reliability, professionalism, and comfort, whether travelling for business, leisure, or everyday journeys.
+**Live URL**: https://www.benzcabz.co.uk/  
+**Business**: Benz Cabz Ltd  
+**Service Type**: Private Hire & Executive Taxi Services  
+**Location**: Watford, Hertfordshire, United Kingdom  
 
-🌍 About Benz Cabz
+This repository contains the source code for the Benz Cabz public-facing website.  
+The site is designed to clearly present services, enable customer enquiries, and provide a reliable online presence for a professional private hire business.
 
-Benz Cabz operates as a UK-registered private hire service, offering pre-booked transport with experienced drivers and well-maintained vehicles. Our focus is on delivering a smooth, stress-free experience from booking to drop-off.
+---
 
-We pride ourselves on:
+## About Benz Cabz
 
-On-time arrivals
+Benz Cabz is a professional private hire and executive taxi service operating in Watford and the surrounding Hertfordshire area. The business focuses on providing reliable, punctual, and comfortable transport for both local and long-distance journeys.
 
-Courteous, professional drivers
+Services are aimed at customers who value professionalism, safety, and convenience, whether travelling for business, leisure, or airport transfers.
 
-Clean and comfortable vehicles
+---
 
-Clear, competitive pricing
+## Services Offered
 
-Whether you need a short local trip or a long-distance airport transfer, Benz Cabz aims to provide a dependable and premium travel experience every time.
+### Airport Transfers
+- Heathrow
+- Gatwick
+- Luton
+- Stansted
+- London City Airport
 
-🚗 Services Offered
-✈️ Airport Transfers
+Pre-booked airport transfers with reliable pickup times and comfortable vehicles.
 
-Pre-booked airport transfers to and from all major UK airports, including:
+### Local & Long-Distance Travel
+- Local journeys within Watford and the surrounding areas
+- Long-distance journeys across Hertfordshire and Greater London
 
-Heathrow
+### Executive & Business Travel
+- Professional service for corporate clients
+- Reliable transport for meetings, events, and business travel
 
-Gatwick
+---
 
-Luton
+## How can I edit this code?
 
-Stansted
+There are several ways to edit and maintain this project.
 
-London City Airport
+---
 
-Flight monitoring ensures timely pickups, even if your flight is delayed.
+### Use your preferred IDE
 
-🏙️ Local & Long-Distance Journeys
+You can work locally using your own development environment.
 
-Local taxi services in Watford and surrounding areas
+#### Prerequisites
+- Node.js (LTS recommended)
+- npm
+- Git
 
-Journeys across Hertfordshire and Greater London
+Node.js can be installed using nvm:  
+https://github.com/nvm-sh/nvm#installing-and-updating
 
-Comfortable travel for shopping, appointments, or events
+#### Steps
 
-💼 Executive & Business Travel
+```sh
+# Step 1: Clone the repository
+git clone <YOUR_GIT_URL>
 
-Ideal for professionals and corporate clients who require:
+# Step 2: Navigate to the project directory
+cd <YOUR_PROJECT_NAME>
 
-Reliable timekeeping
+# Step 3: Install dependencies
+npm install
 
-A discreet, professional service
-
-Comfortable travel for meetings and business trips
-
-⭐ Why Choose Benz Cabz?
-
-✔️ Reliable and punctual service
-
-✔️ Professional and friendly drivers
-
-✔️ Comfortable, well-maintained vehicles
-
-✔️ Simple booking process
-
-✔️ Competitive and transparent pricing
-
-Customer satisfaction and safety are at the heart of everything we do.
-
-🌐 Website
-
-Visit the official website to learn more or make a booking:
-👉 https://www.benzcabz.co.uk/
-
-📞 Contact & Bookings
-
-Bookings and enquiries can be made directly through the website.
-For the best experience, we recommend pre-booking your journey.
-
-📄 Licence & Compliance
-
-Benz Cabz operates in accordance with UK private hire regulations and maintains high standards of safety, service quality, and professionalism.
-
-🚀 Future Improvements
-
-Planned enhancements may include:
-
-Online booking management
-
-Automated confirmations and reminders
-
-Expanded service coverage
-
-Fleet growth
+# Step 4: Start the development server
+npm run dev
